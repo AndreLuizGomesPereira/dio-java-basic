@@ -16,6 +16,6 @@ public class MyClass {
 
     // Methods
     public static String fullName(String firstName, String lastName) {
-        return "Result of method create for me, " + firstName.concat(" ").concat(lastName);
+        return "Olá, me chamo " + firstName.concat(" ").concat(lastName);
     }
 }
