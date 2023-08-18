@@ -1,6 +1,4 @@
-package edu.andreluiz.anatomiaclasses;
-
-public class MyClass {
+public class MinhaClasse {
     public static void main(String[] args) {
         // Variables
         String BR = "Brasil";
