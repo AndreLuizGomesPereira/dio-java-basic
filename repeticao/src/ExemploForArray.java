@@ -5,5 +5,9 @@ public class ExemploForArray {
         for (int contador = 0; contador < alunos.length; contador++) {
             System.out.println("O aluno que está na posição: " + (contador + 1) + " é o aluno " + alunos[contador]);
         }
+
+        for(String aluno: alunos){
+            System.out.println("Utilizando o forEach - " + aluno);
+        }
     }
 }
