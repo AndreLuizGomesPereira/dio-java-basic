@@ -19,3 +19,11 @@ candidatos para entrevista, onde o salário pretendido seja menor ou igual ao sa
 
 ### Case 3
 
+Agora é hora de imprimir a lista dos candidatos selecionados, para disponibilizar para o RH entrar em contato.
+
+### Case 4
+
+O RH deverá realizar uma ligação, com no máximo 03 tentativas para cada candidato selecionado e caso o candidato atenda, deve-se imprimir:
+
+- "CONSEGUIMOS CONTATO COM _[CANDIDATO] ``` APÓS **_**[TENTATIVA]`** TENTATIVA(S)" ;**
+- Do contrário imprima: "NÃO CONSEGUIMOS CONTATO COM O _[CANDIDATO]_".
